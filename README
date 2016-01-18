@@ -1,0 +1,5 @@
+This project contains three parts:
+
+1. Scrapy Crawler for crawlering data from the web, and save them into mongoDB
+2. Recommender for calculating item-to-to similarity scores, and generate recommendations based on their download history
+3. Use Meteor framework to implement Front-end feature, display the recommendations to the user on the web. 
