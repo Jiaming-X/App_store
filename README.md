@@ -8,5 +8,11 @@ This project contains three parts:
 ## Front Page
 ![Image](https://github.com/brucexiejiaming/App_store/blob/master/appStore_main_page.png?raw=true)
 
-## Single page for app description
+## Detail Page
 ![Image](https://github.com/brucexiejiaming/App_store/blob/master/app_description_page.png?raw=true)
+
+## Architecture
+![Image](https://github.com/brucexiejiaming/App_store/blob/master/architecture.jpg?raw=true)
+
+## Crawlwer
+![Image](https://github.com/brucexiejiaming/App_store/blob/master/crawler.png?raw=true)
