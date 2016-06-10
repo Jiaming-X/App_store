@@ -14,5 +14,5 @@ This project contains three parts:
 ## Architecture
 ![Image](https://github.com/brucexiejiaming/App_store/blob/master/architecture.jpg?raw=true)
 
-## Crawlwer
-![Image](https://github.com/brucexiejiaming/App_store/blob/master/crawler.png?raw=true)
+## Crawler
+![Image](https://github.com/brucexiejiaming/App_store/blob/master/crawler.jpg?raw=true)
